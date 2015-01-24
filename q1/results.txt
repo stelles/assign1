@@ -1,0 +1,513 @@
+Number of total tokens: 397
+Number of distinct tokens: 210
+('all', 1)
+('over', 1)
+('years', 1)
+('mile', 1)
+('through', 1)
+('gratified', 1)
+('cold', 1)
+('still', 1)
+('fine', 1)
+('teacup', 1)
+('Hyley', 1)
+('reflection', 1)
+('downstairs', 1)
+('seems', 1)
+('uncommonly', 1)
+('day', 1)
+('answered', 1)
+('lets', 1)
+('grin', 1)
+('easy', 1)
+('has', 1)
+('hope', 1)
+('And', 1)
+('them', 1)
+('lasses', 1)
+('Georgy', 1)
+('very', 1)
+('big', 1)
+('fingers', 1)
+('every', 1)
+('She', 1)
+('they', 1)
+('half', 1)
+('not', 1)
+('world', 1)
+('now', 1)
+('nor', 1)
+('knock', 1)
+('school', 1)
+('didn', 1)
+('London', 1)
+('she', 1)
+('night', 1)
+('sleep', 1)
+('went', 1)
+('He', 1)
+('soft', 1)
+('round', 1)
+('right', 1)
+('old', 1)
+('ten', 1)
+('some', 1)
+('go', 1)
+('see', 1)
+('countrymen', 1)
+('girl', 1)
+('said', 1)
+('profit', 1)
+('forty', 1)
+('countryman', 1)
+('finger', 1)
+('having', 1)
+('got', 1)
+('compliment', 1)
+('lazy', 1)
+('never', 1)
+('written', 1)
+('men', 1)
+('here', 1)
+('pleasant', 1)
+('by', 1)
+('lass', 1)
+('rare', 1)
+('could', 1)
+('or', 1)
+('meditatively', 1)
+('puff', 1)
+('Yes', 1)
+('letters', 1)
+('had', 1)
+('Barlingford', 1)
+('another', 1)
+('Tom', 1)
+('Scarborough', 1)
+('little', 1)
+('Farm', 1)
+('there', 1)
+('shiver', 1)
+('too', 1)
+('suit', 1)
+('was', 1)
+('tell', 1)
+('north', 1)
+('bouncing', 1)
+('but', 1)
+('glass', 1)
+('part', 1)
+('hear', 1)
+('Halliday', 1)
+('those', 1)
+('me', 1)
+('account', 1)
+('carelessly', 1)
+('hour', 1)
+('talking', 1)
+('this', 1)
+('work', 1)
+('will', 1)
+('anywhere', 1)
+('can', 1)
+('making', 1)
+('property', 1)
+('my', 1)
+('give', 1)
+('received', 1)
+('doesn', 1)
+('an', 1)
+('heard', 1)
+('pulling', 1)
+('slip', 1)
+('bones', 1)
+('seem', 1)
+('face', 1)
+('tells', 1)
+('sell', 1)
+('handsome', 1)
+('make', 1)
+('means', 1)
+('wipe', 1)
+('take', 1)
+('get', 1)
+('neither', 1)
+('you', 1)
+('gets', 1)
+('Hallidays', 1)
+('sure', 1)
+('though', 1)
+('farm', 1)
+('price', 1)
+('whiskers', 1)
+('chance', 1)
+('Woolper', 1)
+('burly', 1)
+('bleak', 1)
+('land', 1)
+('don', 1)
+('You', 1)
+('It', 1)
+('One', 1)
+('so', 1)
+('daresay', 1)
+('reflectively', 1)
+('wind', 1)
+('know', 1)
+('Sheldon', 2)
+('yes', 2)
+('best', 2)
+('looking', 2)
+('be', 2)
+('sold', 2)
+('O', 2)
+('on', 2)
+('must', 2)
+('enough', 2)
+('think', 2)
+('one', 2)
+('down', 2)
+('manage', 2)
+('your', 2)
+('her', 2)
+('But', 2)
+('room', 2)
+('ve', 2)
+('well', 2)
+('as', 2)
+('good', 2)
+('in', 2)
+('if', 2)
+('who', 2)
+('Mrs', 2)
+('lay', 2)
+('m', 2)
+('him', 3)
+('t', 3)
+('Mr', 3)
+('with', 3)
+('at', 3)
+('Nancy', 3)
+('his', 4)
+('that', 4)
+('for', 4)
+('ll', 5)
+('to', 5)
+('it', 5)
+('he', 6)
+('of', 7)
+('s', 7)
+('and', 7)
+('a', 8)
+('the', 8)
+('I', 16)
+Number of distinct words : 201
+Number of single words : 154
+Percentage of singlying used words : 0.766169
+%%%%%%%%% Top 100 words : Frequency %%%%%%%%%%%%
+the :  81741
+of :  40801
+to :  36589
+and :  34271
+in :  28611
+a :  25963
+is :  18586
+that :  17560
+for :  12169
+it :  9295
+as :  9085
+be :  8833
+are :  8141
+not :  7749
+but :  7683
+with :  7536
+on :  7523
+by :  7303
+this :  6479
+will :  6031
+have :  5856
+has :  5819
+from :  5194
+their :  4991
+its :  4975
+an :  4727
+they :  4564
+was :  4497
+more :  4465
+or :  4232
+at :  4228
+would :  3459
+us :  3388
+which :  3160
+than :  3160
+if :  3099
+all :  3022
+can :  2961
+new :  2834
+so :  2787
+countries :  2736
+only :  2668
+one :  2648
+no :  2633
+been :  2621
+there :  2527
+we :  2507
+his :  2434
+world :  2359
+government :  2350
+political :  2338
+who :  2315
+now :  2294
+about :  2288
+economic :  2267
+even :  2264
+what :  2255
+such :  2242
+other :  2214
+should :  2213
+when :  2206
+european :  2171
+were :  2124
+also :  2122
+these :  2121
+europe :  2112
+he :  2057
+most :  2044
+many :  1920
+people :  1915
+years :  1894
+may :  1851
+some :  1774
+into :  1760
+because :  1744
+do :  1687
+must :  1672
+could :  1648
+policy :  1591
+between :  1556
+over :  1550
+international :  1539
+eu :  1520
+time :  1480
+financial :  1470
+states :  1470
+out :  1467
+growth :  1467
+china :  1457
+much :  1452
+them :  1450
+had :  1438
+war :  1438
+economy :  1416
+power :  1389
+those :  1361
+after :  1351
+first :  1347
+president :  1339
+two :  1329
+%%%%%% Top 100 non-stopwords : Frequency %%%%%%%
+countries :  2736
+world :  2359
+government :  2350
+political :  2338
+economic :  2267
+european :  2171
+europe :  2112
+people :  1915
+years :  1894
+policy :  1591
+international :  1539
+eu :  1520
+financial :  1470
+states :  1470
+growth :  1467
+china :  1457
+war :  1438
+economy :  1416
+power :  1389
+president :  1339
+global :  1286
+crisis :  1245
+state :  1236
+country :  1190
+public :  1138
+market :  1119
+american :  1053
+america :  1037
+military :  1031
+united :  1016
+security :  1005
+foreign :  1002
+system :  994
+russia :  983
+governments :  967
+national :  933
+union :  929
+central :  927
+social :  926
+change :  919
+trade :  891
+future :  870
+support :  849
+rate :  819
+real :  804
+markets :  802
+interest :  790
+america's :  779
+policies :  773
+leaders :  759
+nuclear :  750
+democracy :  745
+rates :  730
+example :  729
+right :  722
+current :  718
+today :  715
+israel :  713
+capital :  711
+party :  710
+peace :  710
+oil :  708
+human :  703
+rights :  694
+bank :  690
+germany :  684
+course :  681
+work :  676
+iraq :  674
+east :  662
+problem :  658
+china's :  652
+part :  651
+democratic :  650
+reform :  645
+chinese :  644
+west :  637
+order :  634
+debt :  630
+prices :  627
+development :  622
+means :  620
+currency :  617
+process :  615
+members :  608
+major :  601
+europe's :  597
+ago :  593
+inflation :  588
+result :  588
+investment :  586
+demand :  585
+latin :  582
+case :  580
+institutions :  572
+iran :  571
+fiscal :  569
+euro :  566
+back :  566
+banks :  565
+%%%%%%%% Top 100 word pairs : Frequency %%%%%%%%%
+united states :  685
+middle east :  370
+european union :  357
+interest rates :  356
+prime minister :  349
+years ago :  342
+human rights :  333
+latin america :  313
+member states :  283
+foreign policy :  266
+exchange rate :  253
+economic growth :  248
+central bank :  237
+financial crisis :  219
+climate change :  191
+eastern europe :  165
+central banks :  164
+bush administration :  164
+developing countries :  159
+monetary policy :  155
+united nations :  154
+financial markets :  146
+latin american :  145
+cold war :  135
+nuclear weapons :  126
+north korea :  122
+soviet union :  121
+south korea :  118
+international community :  118
+security council :  112
+oil prices :  112
+world economy :  112
+west bank :  106
+federal reserve :  105
+free trade :  105
+exchange rates :  105
+european integration :  103
+western europe :  97
+world war :  96
+financial institutions :  95
+global financial :  95
+european countries :  92
+fiscal policy :  92
+stock market :  91
+health care :  91
+financial system :  90
+monetary union :  88
+global economy :  88
+civil war :  88
+hong kong :  88
+latin america's :  87
+20 years :  85
+economic crisis :  84
+european central :  84
+public debt :  84
+world bank :  81
+public opinion :  79
+european commission :  79
+barack obama :  79
+economic policy :  78
+social security :  78
+presidential election :  77
+status quo :  76
+interest rate :  74
+political leaders :  72
+labor force :  72
+political parties :  71
+private sector :  71
+peace process :  71
+civil society :  69
+labor market :  68
+productivity growth :  68
+nuclear program :  68
+tony blair :  68
+president george :  67
+communist party :  67
+president barack :  67
+world trade :  67
+market economy :  67
+poor countries :  66
+foreign minister :  66
+september 11 :  66
+emerging markets :  66
+global economic :  65
+international monetary :  64
+tax cuts :  63
+young people :  62
+budget deficits :  62
+eu members :  61
+united kingdom :  60
+banking system :  60
+economic development :  60
+czech republic :  60
+financial sector :  60
+international law :  59
+trade deficit :  59
+terrorist attacks :  58
+middle class :  58
+european union's :  58
+welfare state :  58
+Frequency of single words :  0.402949497066
+Distinct Number count : 447
+Distinct Word count : 29377
+Distinct Combo count : 38210
