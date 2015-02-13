@@ -1,0 +1,6 @@
+amuel Stelle
+W# 00878970
+
+NLP Assignment 1 - Question 3
+
+The spell check algorithm for the word acress goes through a couple of steps to determine what word it is misspelling. Firstly we know its misspelled because it doesnt exist in our dictionary corpus.  Now that we know its misspelled, lets find the words that are close to it using edit distance.  We find there are a bunch of words within an edit distance of 1 from the original word.  We then process the likely hood it is the correct word by running the probabilities against our corpus.  For our word acress, actress is a single edit distance so we determine the probability that the letter t comes after c and we also determine the probability of how often that combination is mistyped. We run these probabilities on all potential matches and the one that occurs most frequently is the probable correct match. If we have more words surrounding the misspelled word, we can improve the probability of finding the correct word by determining the probability of the fixed word with its surrounding words.  Obviously the accuracy improves the larger testing corpus.
