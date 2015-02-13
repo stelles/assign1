@@ -4,11 +4,29 @@ from nltk.corpus import PlaintextCorpusReader
 import nltk
 
 
-bigram_measures = nltk.collocations.BigramAssocMeasures()
-trigram_meansures = nltk.collocations.TrigramAssocMeasures()
+from nltk.util import ngrams
+from nltk.model import ngram
+
+f = open("test.txt", 'r')
+
+raw = f.read()
+
+f.close()
 
 
-finder = BigramCollocationFinder.from_words(PlaintextCorpusReader('./', "train.txt").words())
+bigram = ngrams(raw.split(), 2)
+
+bigram_model = NgramModel(2, bigram)
+
+sentence = bigram_model.generate(50)
+
+for i in range(len(sentence)):
+    print sentence[i][0],
+    if i == len(sentence) - 1:
+        print sentence[i][1]
+        
+
+
 
 
 # from re import *
@@ -152,3 +170,4 @@ finder = BigramCollocationFinder.from_words(PlaintextCorpusReader('./', "train.t
 
 
 #     my_tokens.analysis()
+
